@@ -209,7 +209,7 @@
 		
 		<profile>
 			<id>admin</id>
-			<build>
+			<build> 
 				<plugins>
 					<!-- Compile -->
 					<plugin>
